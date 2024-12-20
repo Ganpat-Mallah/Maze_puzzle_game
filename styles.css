@@ -1,0 +1,29 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
+
+canvas {
+  border: 2px solid black;
+  margin-top: 20px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#timer {
+  font-size: 20px;
+  margin-top: 10px;
+}
+
+#congratsMessage {
+  font-size: 24px;
+  color: green;
+  margin-top: 20px;
+}
+
+button {
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+}
