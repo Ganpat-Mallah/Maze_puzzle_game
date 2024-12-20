@@ -30,7 +30,7 @@ In the Memory Maze Puzzle Game, players are given a few seconds to observe the l
 ## 📂 How to Run
 1. Clone the repository:
    
-   git clone https://github.com/Ganpat-Mallah/MemoryMazeGame.git
+   git clone (https://github.com/Ganpat-Mallah/Maze_puzzle_game.git)
 
 -Open index.html in your web browser.
 Enjoy the game and challenge your memory!
